@@ -66,6 +66,9 @@ footer p {
     font-size: 35px;
     color: white;
 }
+nav {
+   text-align: center;
+}
 
 
 
@@ -86,5 +89,5 @@ footer p {
 
 
 body {
-    background-color:gray
+    background-color:gray;
 }
